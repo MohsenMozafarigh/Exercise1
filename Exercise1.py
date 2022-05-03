@@ -1,5 +1,5 @@
-a= input("please add a numbers")
-b = input("please add a numbers")
+a= input("please add a number")
+b = input("please add a number")
 a = int(a)
 b = int(b)
 def exercise1(a, b):
